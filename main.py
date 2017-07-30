@@ -49,5 +49,3 @@ while com_exit == 0:
         print(scr_help)
     else:
         print('Unknown command! Type help to get help.')
-
-# Test for git
